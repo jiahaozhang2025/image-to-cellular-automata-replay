@@ -8,6 +8,47 @@ Built with an interactive Jupyter widget UI lets you experiment with rules, upda
 
 ---
 
+## Examples
+
+<table>
+  <tr>
+    <th style="text-align:center;">Target</th>
+    <th style="text-align:center;">Conway · Uniform</th>
+    <th style="text-align:center;">Conway · Ramp</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <img src="example/flower.png" width="220">
+    </td>
+    <td style="text-align:center;">
+      <img src="example/conway_uniform.gif" width="220">
+    </td>
+    <td style="text-align:center;">
+      <img src="example/conway_ramp.gif" width="220">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th style="text-align:center;">Conway · Patch</th>
+    <th style="text-align:center;">Anneal · Noise 50%</th>
+    <th style="text-align:center;">Maze · Noise 50%</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <img src="example/conway_patch.gif" width="220">
+    </td>
+    <td style="text-align:center;">
+      <img src="example/anneal_noise50.gif" width="220">
+    </td>
+    <td style="text-align:center;">
+      <img src="example/maze_noise50.gif" width="220">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## How it works 
 
 1. **Upload an image**
@@ -48,44 +89,6 @@ Built with an interactive Jupyter widget UI lets you experiment with rules, upda
 
 ---
 
-## Examples
-
-<table>
-  <tr>
-    <th style="text-align:center;">Target</th>
-    <th style="text-align:center;">Conway · Uniform</th>
-    <th style="text-align:center;">Conway · Ramp</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="example/flower.png" width="220">
-    </td>
-    <td style="text-align:center;">
-      <img src="example/conway_uniform.gif" width="220">
-    </td>
-    <td style="text-align:center;">
-      <img src="example/conway_ramp.gif" width="220">
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th style="text-align:center;">Conway · Patch</th>
-    <th style="text-align:center;">Anneal · Noise 50%</th>
-    <th style="text-align:center;">Maze · Noise 50%</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="example/conway_patch.gif" width="220">
-    </td>
-    <td style="text-align:center;">
-      <img src="example/anneal_noise50.gif" width="220">
-    </td>
-    <td style="text-align:center;">
-      <img src="example/maze_noise50.gif" width="220">
-    </td>
-  </tr>
-</table>
 
 
 
